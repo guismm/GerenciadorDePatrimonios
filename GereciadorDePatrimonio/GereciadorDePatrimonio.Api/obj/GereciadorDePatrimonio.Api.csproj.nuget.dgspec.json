@@ -1,0 +1,336 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.Api\\GereciadorDePatrimonio.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.Api\\GereciadorDePatrimonio.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.Api\\GereciadorDePatrimonio.Api.csproj",
+        "projectName": "GereciadorDePatrimonio.Api",
+        "projectPath": "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.Api\\GereciadorDePatrimonio.Api.csproj",
+        "packagesPath": "C:\\Users\\Guilherme\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Guilherme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.ApplicationServices\\GereciadorDePatrimonio.ApplicationServices.csproj": {
+                "projectPath": "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.ApplicationServices\\GereciadorDePatrimonio.ApplicationServices.csproj"
+              },
+              "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.Domain\\GereciadorDePatrimonio.Domain.csproj": {
+                "projectPath": "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.Domain\\GereciadorDePatrimonio.Domain.csproj"
+              },
+              "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.Infrastructure.CrossCutting.IoC\\GereciadorDePatrimonio.Infrastructure.CrossCutting.IoC.csproj": {
+                "projectPath": "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.Infrastructure.CrossCutting.IoC\\GereciadorDePatrimonio.Infrastructure.CrossCutting.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.ApplicationServices\\GereciadorDePatrimonio.ApplicationServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.ApplicationServices\\GereciadorDePatrimonio.ApplicationServices.csproj",
+        "projectName": "GereciadorDePatrimonio.ApplicationServices",
+        "projectPath": "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.ApplicationServices\\GereciadorDePatrimonio.ApplicationServices.csproj",
+        "packagesPath": "C:\\Users\\Guilherme\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.ApplicationServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Guilherme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.Domain\\GereciadorDePatrimonio.Domain.csproj": {
+                "projectPath": "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.Domain\\GereciadorDePatrimonio.Domain.csproj"
+              },
+              "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.Infrastructure.Data\\GereciadorDePatrimonio.Infrastructure.Data.csproj": {
+                "projectPath": "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.Infrastructure.Data\\GereciadorDePatrimonio.Infrastructure.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.Domain\\GereciadorDePatrimonio.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.Domain\\GereciadorDePatrimonio.Domain.csproj",
+        "projectName": "GereciadorDePatrimonio.Domain",
+        "projectPath": "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.Domain\\GereciadorDePatrimonio.Domain.csproj",
+        "packagesPath": "C:\\Users\\Guilherme\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Guilherme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.Infrastructure.CrossCutting.IoC\\GereciadorDePatrimonio.Infrastructure.CrossCutting.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.Infrastructure.CrossCutting.IoC\\GereciadorDePatrimonio.Infrastructure.CrossCutting.IoC.csproj",
+        "projectName": "GereciadorDePatrimonio.Infrastructure.CrossCutting.IoC",
+        "projectPath": "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.Infrastructure.CrossCutting.IoC\\GereciadorDePatrimonio.Infrastructure.CrossCutting.IoC.csproj",
+        "packagesPath": "C:\\Users\\Guilherme\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.Infrastructure.CrossCutting.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Guilherme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.ApplicationServices\\GereciadorDePatrimonio.ApplicationServices.csproj": {
+                "projectPath": "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.ApplicationServices\\GereciadorDePatrimonio.ApplicationServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.Infrastructure.Data\\GereciadorDePatrimonio.Infrastructure.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.Infrastructure.Data\\GereciadorDePatrimonio.Infrastructure.Data.csproj",
+        "projectName": "GereciadorDePatrimonio.Infrastructure.Data",
+        "projectPath": "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.Infrastructure.Data\\GereciadorDePatrimonio.Infrastructure.Data.csproj",
+        "packagesPath": "C:\\Users\\Guilherme\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.Infrastructure.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Guilherme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.Domain\\GereciadorDePatrimonio.Domain.csproj": {
+                "projectPath": "D:\\Projetos\\GereciadorDePatrimonio\\GereciadorDePatrimonio.Domain\\GereciadorDePatrimonio.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

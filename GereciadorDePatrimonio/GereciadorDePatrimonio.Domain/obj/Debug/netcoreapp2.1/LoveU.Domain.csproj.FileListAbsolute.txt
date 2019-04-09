@@ -1,0 +1,24 @@
+C:\Users\Kevyn Marinho\Desktop\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio.Domain\bin\Debug\netcoreapp2.1\GereciadorDePatrimonio.Domain.deps.json
+C:\Users\Kevyn Marinho\Desktop\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio.Domain\bin\Debug\netcoreapp2.1\GereciadorDePatrimonio.Domain.dll
+C:\Users\Kevyn Marinho\Desktop\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio.Domain\bin\Debug\netcoreapp2.1\GereciadorDePatrimonio.Domain.pdb
+C:\Users\Kevyn Marinho\Desktop\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio.Domain\obj\Debug\netcoreapp2.1\GereciadorDePatrimonio.Domain.csprojAssemblyReference.cache
+C:\Users\Kevyn Marinho\Desktop\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio.Domain\obj\Debug\netcoreapp2.1\GereciadorDePatrimonio.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kevyn Marinho\Desktop\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio.Domain\obj\Debug\netcoreapp2.1\GereciadorDePatrimonio.Domain.AssemblyInfoInputs.cache
+C:\Users\Kevyn Marinho\Desktop\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio.Domain\obj\Debug\netcoreapp2.1\GereciadorDePatrimonio.Domain.AssemblyInfo.cs
+C:\Users\Kevyn Marinho\Desktop\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio.Domain\obj\Debug\netcoreapp2.1\GereciadorDePatrimonio.Domain.dll
+C:\Users\Kevyn Marinho\Desktop\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio.Domain\obj\Debug\netcoreapp2.1\GereciadorDePatrimonio.Domain.pdb
+C:\Users\Kevyn Marinho\Desktop\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio.Domain\bin\Debug\netcoreapp2.1\GereciadorDePatrimonio.Domain.SharedKernel.dll
+C:\Users\Kevyn Marinho\Desktop\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio.Domain\bin\Debug\netcoreapp2.1\GereciadorDePatrimonio.Domain.SharedKernel.pdb
+C:\Users\Kevyn Marinho\Desktop\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio.Domain\obj\Debug\netcoreapp2.1\GereciadorDePatrimonio.Domain.csproj.CopyComplete
+C:\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio.Domain\bin\Debug\netcoreapp2.1\GereciadorDePatrimonio.Domain.deps.json
+C:\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio.Domain\bin\Debug\netcoreapp2.1\GereciadorDePatrimonio.Domain.dll
+C:\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio.Domain\bin\Debug\netcoreapp2.1\GereciadorDePatrimonio.Domain.pdb
+C:\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio.Domain\bin\Debug\netcoreapp2.1\GereciadorDePatrimonio.Domain.SharedKernel.dll
+C:\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio.Domain\bin\Debug\netcoreapp2.1\GereciadorDePatrimonio.Domain.SharedKernel.pdb
+C:\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio.Domain\obj\Debug\netcoreapp2.1\GereciadorDePatrimonio.Domain.csprojAssemblyReference.cache
+C:\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio.Domain\obj\Debug\netcoreapp2.1\GereciadorDePatrimonio.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio.Domain\obj\Debug\netcoreapp2.1\GereciadorDePatrimonio.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio.Domain\obj\Debug\netcoreapp2.1\GereciadorDePatrimonio.Domain.AssemblyInfo.cs
+C:\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio.Domain\obj\Debug\netcoreapp2.1\GereciadorDePatrimonio.Domain.csproj.CopyComplete
+C:\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio.Domain\obj\Debug\netcoreapp2.1\GereciadorDePatrimonio.Domain.dll
+C:\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio.Domain\obj\Debug\netcoreapp2.1\GereciadorDePatrimonio.Domain.pdb

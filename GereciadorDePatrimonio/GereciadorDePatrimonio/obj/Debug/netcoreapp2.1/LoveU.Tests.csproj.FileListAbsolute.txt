@@ -1,0 +1,14 @@
+C:\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio\bin\Debug\netcoreapp2.1\GereciadorDePatrimonio.Tests.deps.json
+C:\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio\bin\Debug\netcoreapp2.1\GereciadorDePatrimonio.Tests.runtimeconfig.json
+C:\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio\bin\Debug\netcoreapp2.1\GereciadorDePatrimonio.Tests.runtimeconfig.dev.json
+C:\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio\bin\Debug\netcoreapp2.1\GereciadorDePatrimonio.Tests.dll
+C:\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio\bin\Debug\netcoreapp2.1\GereciadorDePatrimonio.Tests.pdb
+C:\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio\obj\Debug\netcoreapp2.1\GereciadorDePatrimonio.Tests.csprojAssemblyReference.cache
+C:\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio\obj\Debug\netcoreapp2.1\GereciadorDePatrimonio.Tests.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio\obj\Debug\netcoreapp2.1\GereciadorDePatrimonio.Tests.AssemblyInfoInputs.cache
+C:\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio\obj\Debug\netcoreapp2.1\GereciadorDePatrimonio.Tests.AssemblyInfo.cs
+C:\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio\obj\Debug\netcoreapp2.1\GereciadorDePatrimonio.Tests.dll
+C:\Projetos\Pessoais\GereciadorDePatrimonio\backend\GereciadorDePatrimonio\GereciadorDePatrimonio\obj\Debug\netcoreapp2.1\GereciadorDePatrimonio.Tests.pdb
