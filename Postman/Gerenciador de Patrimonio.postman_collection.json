@@ -1,0 +1,315 @@
+{
+	"info": {
+		"_postman_id": "af5e5eb6-7c96-4f9b-a74b-ad0ca979a94b",
+		"name": "Gerenciador de Patrimonio",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Marcas",
+			"item": [
+				{
+					"name": "Criar Novo",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"Nome\" : \"Teste de Marca 01\"\n}"
+						},
+						"url": {
+							"raw": "http://localhost:58602/marcas",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "58602",
+							"path": [
+								"marcas"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Buscar Por Id",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "http://localhost:58602/Marcas/e1683185-0b7b-4383-15ff-08d6bc63e2de",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "58602",
+							"path": [
+								"Marcas",
+								"e1683185-0b7b-4383-15ff-08d6bc63e2de"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Alterar",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"nome\": \"Teste\"\n}"
+						},
+						"url": {
+							"raw": "http://localhost:58602/Marcas/e1683185-0b7b-4383-15ff-08d6bc63e2de",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "58602",
+							"path": [
+								"Marcas",
+								"e1683185-0b7b-4383-15ff-08d6bc63e2de"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Listar Todos",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "http://localhost:58602/Marcas",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "58602",
+							"path": [
+								"Marcas"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Deletar",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "http://localhost:58602/Marcas/e1683185-0b7b-4383-15ff-08d6bc63e2de",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "58602",
+							"path": [
+								"Marcas",
+								"e1683185-0b7b-4383-15ff-08d6bc63e2de"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Listar Patrimonios por Marca",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "http://localhost:58602/Marcas/b04726df-47cd-4db8-f8c0-08d6bc694499/patrimonios",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "58602",
+							"path": [
+								"Marcas",
+								"b04726df-47cd-4db8-f8c0-08d6bc694499",
+								"patrimonios"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Patrimonio",
+			"item": [
+				{
+					"name": "Listar Todos",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "http://localhost:58602/patrimonio",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "58602",
+							"path": [
+								"patrimonio"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Criar Novo",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"MarcaId\": \"b04726df-47cd-4db8-f8c0-08d6bc694499\",\n    \"Nome\" : \"Meu\",\n    \"Descricao\": \"Minhas coisas\"\n}"
+						},
+						"url": {
+							"raw": "http://localhost:58602/patrimonio",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "58602",
+							"path": [
+								"patrimonio"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Alterar",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"tombo\": 35,\n    \"marcaId\": \"b04726df-47cd-4db8-f8c0-08d6bc694499\",\n    \"nome\": \"Nosso\",\n    \"descricao\": \"Minhas coisas de todos\"\n}"
+						},
+						"url": {
+							"raw": "http://localhost:58602/patrimonio/6b389925-2c91-4080-2a79-08d6bc6ae16d",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "58602",
+							"path": [
+								"patrimonio",
+								"6b389925-2c91-4080-2a79-08d6bc6ae16d"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Deletar",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "http://localhost:58602/patrimonio/59591162-5305-46b5-59b0-08d6bc6ac04b",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "58602",
+							"path": [
+								"patrimonio",
+								"59591162-5305-46b5-59b0-08d6bc6ac04b"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Obter Por Id",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "http://localhost:58602/patrimonio/6b389925-2c91-4080-2a79-08d6bc6ae16d",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "58602",
+							"path": [
+								"patrimonio",
+								"6b389925-2c91-4080-2a79-08d6bc6ae16d"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
